@@ -1,0 +1,22 @@
+body {
+ background-image: url("background.jpg");
+ background-color: #cccccc;
+}
+
+.wrapper {
+  margin: auto;
+  max-width: 600px;
+  height:500px;
+  padding-top: 170px;
+  text-align: center;
+}
+
+.container {
+  background-color: #ffffb3;
+  padding: 50px;
+  border-radius: 20px;
+  align-self: center;
+}
+
+
+
